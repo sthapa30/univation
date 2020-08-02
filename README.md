@@ -3,7 +3,7 @@ Run the following commands
 * python3 -m venv env
 * source env/bin/activate
 * cd src
-*python3 manage.py runserver
+* python3 manage.py runserver
 
 Following are the http endpoints <br/>
 * http://localhost:8000/api/post/  -----------> Challenge #1 <br/>
